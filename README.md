@@ -4,7 +4,7 @@ Project work for Coursera Statistics with R Specialization offered by Duke Unive
 
 Course 1: Introduction to Probability and Data. [Exploring BRFSS Data and Predict Stroke](http://rpubs.com/susan_li/274621)
 
-Course 2: Inferential Statistics
+Course 2: Inferential Statistics. [Statistical Inference with the General Social Survey Data](http://rpubs.com/susan_li/gss)
 
 Course 3: Linear Regression and Modeling
 
