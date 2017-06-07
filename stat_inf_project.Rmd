@@ -287,7 +287,7 @@ pairwise.t.test(gss_in$coninc, gss_in$race, p.adj ='bonferroni')
 
 #### Confidence Interval
 
-As a last step, caculate confidence interval for one pairwise group difference - "White" and "Other".
+As a last step, calculate confidence interval for one pairwise group difference - "White" and "Other".
 
 ```{r}
 gss_in_w_o <- subset(gss_in, race== 'White' | race=='Other', select=c(race, coninc))
